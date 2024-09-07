@@ -1,3 +1,3 @@
 # apnacollege
 This is my first Git Repository.<br>
-Author-Prabhat Prajapati
+Author-Prabhat (apnacollege)
